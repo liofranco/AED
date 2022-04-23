@@ -16,5 +16,7 @@ Hello, World! o similar.
 readme.md, hello.cpp, y output.txt .
 11.La última tarea es informar el usuario GitHub en la lista indicada en el curso.
 
-## Compilador
-g++ (Rev10, Built by MSYS2 project) 11.2.0
+## Entorno de desarrollo
+- Compilador: g++ (Rev10, Built by MSYS2 project) 11.2.0
+- Version: C++ 20
+- Editor de código: Visual Studio Code
