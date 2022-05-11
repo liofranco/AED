@@ -3,8 +3,8 @@
 using namespace std::literals;
 
 int main() {
-	//prueba de tipo de dato bool
-	assert(true);
+    //prueba de tipo de dato bool
+    assert(true);
     assert(false==false);
     assert(true!=false);
     assert(not false);
